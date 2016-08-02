@@ -53,11 +53,18 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="svn://107.180.73.104/smartorder" />
         <option value="https://dev.naver.com/svn/jsclient" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="svn://107.180.73.104/smartorder" />
+        <option value="svn://107.180.73.104" />
+        <option value="http://107.180.73.104" />
+        <option value="http://107.180.73.104:3690" />
+        <option value="https://107.180.73.104:3690/" />
+        <option value="http://107.180.73.104:3690/" />
         <option value="https://dev.naver.com/svn/jsclient" />
         <option value="http://dev.naver.com/jsclient" />
       </list>
