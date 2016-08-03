@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '/Volumes/USB/mobileBrochure/shop/data/suggestion.json'" />
+    <option name="defaultScopeName" value="File '/Volumes/USB/mobileBrochure/shop/data/suggestion.json'" />
+    <option name="SEARCH_SCOPE" value="File '/Volumes/USB/mobileBrochure/shop/data/suggestion.json'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
