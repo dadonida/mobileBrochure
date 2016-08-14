@@ -49,6 +49,7 @@
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="4.2.3" last-modified="1449180571000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v6.3.1/bin/node" version="6.3.1" last-modified="1469133275000" />
   </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
