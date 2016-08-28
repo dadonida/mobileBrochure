@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="modernizr" type="JavaScript" />
+      <mapping ext="jsonp" type="JavaScript" />
       <mapping pattern="dafsdf" type="PLAIN_TEXT" />
-      <mapping ext="jsonp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
