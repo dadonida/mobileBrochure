@@ -73,4 +73,17 @@
       </list>
     </option>
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="svn://107.180.73.104/smartorder">
+          <value>
+            <set>
+              <option value="/Volumes/USB/mobileBrochure/shop" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
